@@ -112,3 +112,6 @@ Test results for networks by <b>Dice</b> and <b>F1</b> metrics:
  </table>
 
 The weights of the trained networks can be downloaded from the [Yandex.Disk](https://disk.yandex.ru/d/9TtzMad52VAVig).
+
+## References
+* Kotov Nikita (nik-kotov-98@inbox.ru)
