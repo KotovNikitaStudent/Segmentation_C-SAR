@@ -1,0 +1,13 @@
+torch
+torchvision
+scikit-image
+findpeaks
+matplotlib
+numpy
+tqdm
+segmentation-models-pytorch
+scikit-learn
+opencv-python
+scipy
+tensorboardX
+albumentations
